@@ -1,13 +1,6 @@
 import os
 import openai
 
-# TODO: 
-# run simluations with different parameters and models
-# try diffrent prompts (non-creative, factual, etc.)
-
-# TODO: REMOVE OPENAI KEY -- DON NOT DOXX THAT
-openai.api_key = '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'
-
 # Test 01 - no parameters, gpt-3.5-turbo model
 # f = open("test1.txt", "a")
 # i = 1
